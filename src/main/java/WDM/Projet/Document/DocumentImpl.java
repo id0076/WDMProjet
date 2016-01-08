@@ -10,6 +10,8 @@ import java.util.List;
 
 import WDM.Projet.Document.Interface.Document;
 
+
+
 public class DocumentImpl implements Document {
 
 	private List<String> listMot = new ArrayList<String>();
